@@ -22,8 +22,8 @@ GPTMapper is an AI-powered guide to success, offering a personalized roadmap for
   
   </br>
   </br>
-    <h1>Demo link : </h1>
-    <a href="https://GPTMapper.netlify.com">GPT Mapper</a>
+    <!-- <h1>Demo link : </h1>
+    <a href="https://GPTMapper.netlify.com">GPT Mapper</a> -->
   
   
   

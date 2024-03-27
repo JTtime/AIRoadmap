@@ -27,7 +27,7 @@ const Header = () => {
   return (
     <header className={isSticky ? 'sticky' : ''}>
       <div className='header-container'>
-        <div className="logo">GPTMapper</div>
+        <div className="logo">AI Roadmap</div>
         <div className={`nav ${isNavOpen ? 'open' : ''}`}>
           <div className='nav-toggle' onClick={toggleNav}>
             <span className='bar'></span>
