@@ -3,7 +3,7 @@ Lack of personalized guidance in learning,requiring tailored roadmaps for effici
 </br>
 </br>
 <h1>Solution :</h1></br>
-GPTMapper is an AI-powered guide to success, offering a personalized roadmap for achieving your goals and advancing your career. With its intelligent insights and guidance, it helps you navigate the path to success, providing valuable advice and direction along the way. Harness the power of AI to unlock your full potential and reach new heights in your personal and professional journey.
+AIRoadmap is an AI-powered guide to success, offering a personalized roadmap for achieving your goals and advancing your career. With its intelligent insights and guidance, it helps you navigate the path to success, providing valuable advice and direction along the way. Harness the power of AI to unlock your full potential and reach new heights in your personal and professional journey.
 </br>
 </br>
 <h1>Tech Stack :</h1></br>
